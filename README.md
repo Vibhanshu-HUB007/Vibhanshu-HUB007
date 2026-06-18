@@ -1,21 +1,83 @@
-# 💫 About Me:
-Duran Duran’s “Hungry like a wolf” would best describe my passion for data science. I have completed my Bachelor's Degree in Artificial Intelligence and Data Science. During this journey I had an opportunity to work at Aryabhatta Research Institute of Observational Sciences (ARIES) and ISRO National Remote Sensing Centre (NRSC).<br><br><br>And now improving my analytics skills and working on real time projects…<br>I am currently working as Research Scientists at Indian Council of Medical Research(ICMR) 
+<h1 align="center">Hi 👋, I'm Vibhanshu Waghmare</h1>
+<h3 align="center">AI Engineer | Generative AI | LLMs | Multi-Agent Systems | Computer Vision</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vibhanshu-waghmare/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VibHansHuW90571) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vibhanshuw789@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vibhanshu-HUB007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vibhanshu-HUB007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhanshu-HUB007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="mailto:vibhanshuw789@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/vibhanshu-waghmare/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Vibhanshu-HUB007"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vibhanshu-HUB007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+I am an AI Engineer and Research Scientist passionate about building intelligent, real-world systems. Currently, I am developing deep learning-based point-of-care medical screening tools for oral cancer detection (ICMR-funded). 
+
+Previously, I developed AIoT autonomous rovers for space and agriculture at **ISRO NRSC** and designed real-time LiDAR data pipelines at **ARIES**. My expertise lies in **Computer Vision**, **Generative AI**, and building **Multi-Agent Systems** (LangGraph, CrewAI, Agentic RAG) to automate complex workflows.
+
+---
+
+## 🛠️ Core Competencies & Tech Stack
+
+| **Domain** | **Technologies & Tools** |
+| :--- | :--- |
+| **Languages** | Python, SQL, C++, Go |
+| **AI & Machine Learning** | PyTorch, TensorFlow, Keras, YOLO, LangGraph, LLaMA, Hugging Face, scikit-learn, OpenCV |
+| **Data & Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau |
+| **Cloud & DevOps** | AWS, Docker, FastAPI, Linux, Git, NVIDIA CUDA |
+| **Robotics & IoT** | ROS, Edge Computing, LiDAR integration |
+
+---
+
+## 💼 Professional Experience
+* **Project Research Scientist** | *Datta Meghe Institute (ICMR Funded)* | Nov 2025 – Present
+  * Developing a Point of Care Cytology Screening Tool for Oral Potentially Malignant Disorders using Custom CNNs, ViT, and EfficientNet.
+* **AI & Data Science Intern** | *ISRO NRSC* | Jul 2024 – Dec 2024
+  * Built an AIoT autonomous rover implementing LiDAR mapping, ROS navigation, and edge-computing AI models.
+* **Data Science Intern** | *Brainovision Solutions* | Jan 2024 – Mar 2024
+  * Built ML models for customer segmentation and deployed regression models via Flask.
+* **Research Fellowship Intern** | *ARIES* | May 2023 – Aug 2023
+  * Designed structure for daytime operation of Micro Pulse LiDAR and developed real-time data acquisition algorithms.
+
+---
+
+## 🔥 Featured Projects
+
+### 1. [LangGraph Customer Support Agent](https://github.com/Vibhanshu-HUB007/LangGraph-Customer-Support-Agent)
+* **Tech:** Python, LangGraph, MCP Server
+* **Description:** Built an 11-stage autonomous customer support pipeline featuring deterministic/non-deterministic execution, persistent state management, and automatic escalation logic based on confidence scores.
+
+### 2. [Image Classification & LLM Fine-Tuning](https://github.com/Vibhanshu-HUB007/Image-Classification_1-and-LLM-Tuning_2)
+* **Tech:** PyTorch, YOLOv8, EfficientNet, LLaMA 3.2, Transformers
+* **Description:** Achieved < 20 ms inference speed for edge deployment. Fine-tuned LLaMA 3.2 to extract structured date/time entities into validated JSON, replacing brittle regex parsing.
+
+### 3. [CrowdWisdom Trading AI Agent](https://github.com/Vibhanshu-HUB007/CrowdWisdomTrading-AI-Agent)
+* **Tech:** Python, CrewAI, LangChain
+* **Description:** Designed an autonomous CrewAI backend to discover and filter financial creators on X (Twitter) based on credibility rules, automating market-sentiment dataset generation.
+
+### 4. [Math Professor AI Agent (Agentic RAG)](https://github.com/Vibhanshu-HUB007/Math-Professor-AI-Agent)
+* **Tech:** Python, FastAPI, React, Vector DB, MCP
+* **Description:** Developed a comprehensive Agentic RAG system for mathematical education. Features an AI Gateway with guardrails, intelligent routing between Knowledge Base and Web Search, and a human-in-the-loop feedback mechanism for continuous improvement.
+
+### 5. [InsightSynth: Autonomous Research Summarizer](https://github.com/Vibhanshu-HUB007/InsightSynth----Autonomous-Research-Summarizer-AI)
+* **Tech:** Python, FastAPI, Streamlit, Pydantic, RAG
+* **Description:** Built an end-to-end AI application that automatically fetches, analyzes, and synthesizes cross-source insights from the web. Features a robust FastAPI backend, real-time Streamlit frontend, and automated markdown report generation.
+
+---
+
+## 🏆 Awards & Publications
+* 🥇 **1st Place Winner**, Data Science Hackathon – Brainovision Solutions.
+* 📄 **Published Research Paper** (Scopus Indexed) – *AI Autonomous Rover for Space and Agriculture Application* (ISRO NRSC).
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibhanshu-HUB007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhanshu-HUB007&theme=dark&hide_border=false" alt="Streaks" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhanshu-HUB007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" height="180px"/>
+</p>
+
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
+</p>
