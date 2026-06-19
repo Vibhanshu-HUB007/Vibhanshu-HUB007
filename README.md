@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vibhanshu Waghmare</h1>
-<h3 align="center">AI Engineer | Generative AI | LLMs | Multi-Agent Systems | Computer Vision</h3>
+<h3 align="center">AI Engineer | Machine-Learning Engineer | LLMs | Multi-Agent Systems | Research Scientist</h3>
 
 <p align="center">
   <a href="mailto:vibhanshuw789@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
